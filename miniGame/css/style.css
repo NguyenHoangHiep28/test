@@ -1,0 +1,58 @@
+html {
+    background-color: black;
+}
+#container {
+    width: 700px;
+    margin-left: 30%;
+}
+#header {
+    position: absolute;
+    top: 0px;
+    z-index: 4;
+    margin-left: 70px;
+}
+figcaption {
+    font-family: sans-serif;
+    font-size: 75%;
+    color: #31B44B;
+    padding: 15px 0px;
+}
+img.lightning {
+    display: none;
+}
+#frame {
+    position: absolute;
+    z-index: 4;
+    top : 105px;
+}
+#lightningImg {
+    position: relative;
+    z-index: 3;
+    width: 500px;
+}
+#content {
+}
+#trip {
+    width: 367px;
+    overflow: hidden;
+    position: absolute;
+    z-index: 5;
+    left: 90px;
+    top: 84px;
+}
+.head {
+    margin-top: -1px;
+    position: relative;
+}
+.eyes {
+    margin-top: -4px;
+    position: relative;
+}
+.noses{
+    margin-top: -4px;
+    position: relative;
+}
+.mouth {
+    margin-top: -4px;
+    position: relative;
+}
